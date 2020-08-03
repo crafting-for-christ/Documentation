@@ -10,3 +10,4 @@
   * [Custom Crafting Recipes](./smpdatapack/customcraftingrecipes.md)
   * [Dragon Death](./smpdatapack/dragondeath.md)
   * [End Crystal Changes](./smpdatapack/endcrystalchanges.md)
+  * [Player Heads](./smpdatapack/playerheads.md)
