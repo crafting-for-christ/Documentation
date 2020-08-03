@@ -1,4 +1,5 @@
 * [Introduction](README.md)
+* [Project Maintainers](projectmaintainers.md)
 <!-- * zander -->
 <!--   * zander -->
 <!--   * zander-web -->
