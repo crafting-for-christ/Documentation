@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="250" src="https://github.com/crafting-for-christ/Documentation/blob/master/assets/img/arrowprayerlogo.png?raw=true">
+  <img height="250" src="https://github.com/crafting-for-christ/Documentation/blob/master/assets/img/craftingforchristlogo.png?raw=true">
 </p>
 
 # Documentation
