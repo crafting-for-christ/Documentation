@@ -8,3 +8,5 @@
   * [Introduction](./smpdatapack/introduction.md)
   * [Beehive Notification](./smpdatapack/beehivenotification.md)
   * [Custom Crafting Recipes](./smpdatapack/customcraftingrecipes.md)
+  * [Dragon Death](./smpdatapack/dragondeath.md)
+  * [End Crystal Changes](./smpdatapack/endcrystalchanges.md)
