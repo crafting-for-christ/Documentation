@@ -1,5 +1,6 @@
 * [Introduction](README.md)
-* [Project Maintainers](projectmaintainers.md)
+* [Introduction](README.md)
+* [Contributing](contributing.md)
 <!-- * zander -->
 <!--   * zander -->
 <!--   * zander-web -->
