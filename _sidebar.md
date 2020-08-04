@@ -1,7 +1,8 @@
 * [Introduction](README.md)
 * [Introduction](README.md)
 * [Contributing](contributing.md)
-<!-- * zander -->
+  * zander
+    * [About the Project](zander/about.md)
 <!--   * zander -->
 <!--   * zander-web -->
 <!-- * ArrowPrayer -->
