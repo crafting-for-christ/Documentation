@@ -2,7 +2,7 @@
   <img height="250" src="https://github.com/crafting-for-christ/Documentation/blob/master/assets/img/craftingforchristlogo.png?raw=true">
 </p>
 
-# Documentation
+# Documentation {docsify-ignore-all}
 Documentation for Crafting For Christ development projects used on the Network.<br>
 You can view the docs located at https://docs.craftingforchrist.net. Pages are hosted using GitHub Pages.
 

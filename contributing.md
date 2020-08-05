@@ -1,6 +1,6 @@
 # Contributing
 
-> You can submit Pull Requests to the zander project here: https://github.com/benrobson/zander/pulls
+> You can submit Pull Requests to Crafting For Christ projects here: https://github.com/crafting-for-christ
 
 We love teamwork and when people work together often other people learn new things.
 
