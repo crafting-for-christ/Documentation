@@ -17,7 +17,7 @@ Maintained By ![](https://crafatar.com/avatars/0af038412894434ca4be965b317244e8?
 Project Language: `Java`<br>
 Maintained By ![](https://crafatar.com/avatars/0af038412894434ca4be965b317244e8?size=20&overlay) shadowolfyt
 
-## Verse Of The Day
+## [Verse Of The Day](/verseoftheday/introduction.md)
 [<img src="https://github.com/crafting-for-christ/Documentation/blob/master/assets/img/github.png?raw=true" height="20px">](https://github.com/crafting-for-christ/Verse-Of-The-Day)
 Project Language: `JavaScript`<br>
 Maintained By ![](https://crafatar.com/avatars/0af038412894434ca4be965b317244e8?size=20&overlay) shadowolfyt
