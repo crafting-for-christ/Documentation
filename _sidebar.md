@@ -3,12 +3,9 @@
 * [<i class="fas fa-hard-hat"></i> Project Maintainers](projectmaintainers.md)
 * <i class="fas fa-caret-down"></i> zander
   * [<i class="fas fa-info-circle"></i> About the Project](zander/about.md)
-
-<!-- * <i class="fas fa-caret-down"></i> zander -->
-<!--   * <i class="fas fa-caret-down"></i> zander-web -->
-<!-- * <i class="fas fa-caret-down"></i> ArrowPrayer -->
-<!-- * <i class="fas fa-caret-down"></i> Verse Of The Day -->
-
+* <i class="fas fa-bible"></i> Verse Of The Day
+  * [<i class="fas fa-info-circle"></i> Introduction](verseoftheday/introduction.md)
+  * [Setup](verseoftheday/setup.md)
 * <i class="fas fa-caret-down"></i> SMP Datapack
   * [<i class="fas fa-info-circle"></i> Introduction](./smpdatapack/introduction.md)
   * [Beehive Notification](./smpdatapack/beehivenotification.md)
@@ -17,3 +14,7 @@
   * [End Crystal Changes](./smpdatapack/endcrystalchanges.md)
   * [Player Heads](./smpdatapack/playerheads.md)
   * [Protective Piglins](./smpdatapack/protectivepiglins.md)
+
+
+<!--   * <i class="fas fa-caret-down"></i> zander-web -->
+<!-- * <i class="fas fa-caret-down"></i> ArrowPrayer -->
