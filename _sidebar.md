@@ -3,9 +3,10 @@
 * [<i class="fas fa-hard-hat"></i> Project Maintainers](projectmaintainers.md)
 * <i class="fas fa-caret-down"></i> zander
   * [<i class="fas fa-info-circle"></i> About the Project](zander/about.md)
+  * <i class="fas fa-caret-down"></i> zander-web
+  * [<i class="fas fa-terminal"></i> Discord Commands](zander/discordcommands.md)
 
-<!-- * <i class="fas fa-caret-down"></i> zander -->
-<!--   * <i class="fas fa-caret-down"></i> zander-web -->
+
 <!-- * <i class="fas fa-caret-down"></i> ArrowPrayer -->
 <!-- * <i class="fas fa-caret-down"></i> Verse Of The Day -->
 
