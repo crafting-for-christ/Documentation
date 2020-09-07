@@ -1,6 +1,6 @@
 # Project Maintainers {docsify-ignore-all}
 
-> Want to contribute to the project to make our Server better? Have a look at our [contributing](contributing.md) page.
+> Want to contribute to the project to make our Network better? Have a look at our [contributing](contributing.md) page.
 
 ## zander
 [<img src="https://github.com/crafting-for-christ/Documentation/blob/master/assets/img/github.png?raw=true" height="20px">](https://github.com/crafting-for-christ/zander)
