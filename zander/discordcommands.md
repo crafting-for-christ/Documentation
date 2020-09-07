@@ -80,6 +80,9 @@ This command unbans the Discord user id of the user to allow them access back in
 
 #### lp [username] [promote|demote|ranks] (rank)
 <span class="badge badge-warning">Warning</span> These commands are restricted to the top role.
-| property         | action |
-|------------------|--------|
-| [promote] [rank] |     |
+
+| Setting          | Function                                                               |
+|------------------|------------------------------------------------------------------------|
+| [promote] [rank] | Promote the user to the specified role, if they don't already have it. |
+| [demote] [rank]  | Demote the user from the specified role, if they have it.              |
+| ranks            | List all of the ranks that a player currently has.                     |
